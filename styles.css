@@ -1,0 +1,82 @@
+h1, h2, h3, h4, ul, li, p {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  font-family: Arial;
+  color: #333;
+}
+
+header {
+  padding: 50px;
+  background-color: cornflowerblue;
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+}
+
+main {
+  max-width: 800px;
+  padding: 20px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+main form {
+  width: 40%;
+}
+
+main article {
+  width: 45%
+}
+
+h1, h2, h3, h4, p {
+  margin-bottom: 1em;
+}
+
+h3{
+  padding-top: 10px;
+}
+
+#title {
+  text-align: center;
+  color: cornflowerblue;
+}
+
+input, textarea, #destination_details_form button {
+  display: block;
+  width: 100%;
+  margin-bottom: 1em;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 15px;
+  border: 1px solid cornflowerblue;
+}
+
+.card {
+  padding: 20px;
+  background-color: #efefef;
+  margin-bottom: 20px;
+}
+
+button{
+  margin-top: 40px;
+  background-color: cornflowerblue;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 15px;
+  border: none;
+}
+
+
+
+
+
+
